@@ -1,3 +1,2 @@
-﻿sfml-template-vs.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
-sfml-template-vs.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
-C:\Users\Hamza\source\repos\sfml-template-vs\x64\Debug\sfml-template-vs.exe : fatal error LNK1120: 2 unresolved externals
+﻿  sfml-template-vs.cpp
+  sfml-template-vs.vcxproj -> C:\Users\Hamza\source\repos\sfml-template-vs\x64\Debug\sfml-template-vs.exe
